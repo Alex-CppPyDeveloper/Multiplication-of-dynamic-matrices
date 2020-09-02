@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ConsoleApplication5.cpp
+c:\users\lesha\source\repos\consoleapplication5\consoleapplication5\consoleapplication5.cpp(16): warning C4101: pr: неиспользованная локальная переменная
+  ConsoleApplication5.vcxproj -> C:\Users\lesha\source\repos\ConsoleApplication5\Debug\ConsoleApplication5.exe
